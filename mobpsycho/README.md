@@ -1,4 +1,4 @@
-# AI-Powered Website and Web App Builder  
+# AI-Powered Website and Flutter App Builder  
 
 ## Team Details  
 - *Team Name*: Mob Psycho  
@@ -12,7 +12,7 @@
 Our project combines AI-powered tools and web development to simplify and automate the process of creating websites , web applications and android applications.
 
 ## Idea  
-Our project introduces an *AI Website Builder* and a *Web App Builder* with the following features:  
+Our project introduces an *AI Website Builder* and a *Flutter App Builder* with the following features:  
 1. *AI Website Builder*:  
    - Allows users to generate react projects using prompts.  
    - Uses an *AI Agent* to interpret the prompt and make web requests directly in the browser.  
@@ -55,7 +55,7 @@ Our project introduces an *AI Website Builder* and a *Web App Builder* with the 
    - Enter a prompt (e.g., "Create a personal portfolio website").  
    - View the generated project.  
 
-### Web App Builder  
+### Flutter App Builder  
 1. *Prerequisites*:  
    - Install [Flutter SDK](https://flutter.dev/docs/get-started/install).  
    - Clone the repository:  
